@@ -7,7 +7,7 @@
 
 --------
 ## Study Guide
-<img src='https://github.com/nodeschool/dallas/raw/master/assets/imgs/node-logo.png'>
+<img title="TeamTreeHouse" style="border-radius: 5px"  src='http://vividventures.biz/d/sites/default/files/socialicons/teamtreehouse.jpg'>
 ### - [Nodejs-basics](http://teamtreehouse.com/library/nodejs-basics) at Teamtreehouse; residents sign up for free at Pierce County Library [Gateways](https://teamtreehouse.com/gateways/pierce_county_public_library/signup?). Residents must first get a free library card at [Pierce County Library](http://www.piercecountylibrary.org/).
 ### - NodeSchool workshoppers (self study problem sets):[ http://nodeschool.io/#workshoppers](http://nodeschool.io/#workshoppers)
 ### - Beginining.js [book](http://it-ebooks.info/book/5471/) at it-ebooks.info
