@@ -6,7 +6,7 @@
 
 
 --------
-## Self study Curriculum
+## Study Guide
 <img src='https://github.com/nodeschool/dallas/raw/master/assets/imgs/node-logo.png'>
 ### - [Nodejs-basics](http://teamtreehouse.com/library/nodejs-basics) at Teamtreehouse; residents sign up for free at Pierce County Library [Gateways](https://teamtreehouse.com/gateways/pierce_county_public_library/signup?). Residents must first get a free library card at [Pierce County Library](http://www.piercecountylibrary.org/).
 ### - NodeSchool workshoppers (self study problem sets):[ http://nodeschool.io/#workshoppers](http://nodeschool.io/#workshoppers)
