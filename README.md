@@ -1,6 +1,6 @@
 # Nodeschool Tacoma, WA
 <img src='https://github.com/nodeschool/dallas/raw/master/assets/imgs/nodeschool-logo.png'>
-### [NodeSchool](http://nodeschool.io) chapter serving the Tacoma, Washington USA area is an open source project run by volunteers to host [Node.js](https://nodejs.org) community learning events.
+### [NodeSchool](http://nodeschool.io) [chapter](http://nodeschool.io/tacoma/) serving the Tacoma, Washington USA area is an open source project run by volunteers to host [Node.js](https://nodejs.org) community learning events.
 
 ### Organization, signup and meeting announcments by [Tacoma-JS](http://www.meetup.com/Tacoma-JS/) meetup.
 
