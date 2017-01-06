@@ -1,14 +1,24 @@
 # Nodeschool Tacoma, WA
 
-### [NodeSchool](http://nodeschool.io) [chapter](http://nodeschool.io/tacoma/) serving the Tacoma, Washington USA area is an open source project run by volunteers to host [Node.js](https://nodejs.org) community learning events.
-
-### Organization, signup and meeting announcments by [Tacoma-JS](http://www.meetup.com/Tacoma-JS/) meetup.
+### The [NodeSchool](http://nodeschool.io) [chapter](http://nodeschool.io/tacoma/) serving the Tacoma, Washington USA area
+### is an open source project run by volunteers to host [Node.js](https://nodejs.org) community
+### learning events.  Organization, signup and meeting
+### announcments by [Tacoma-JS](http://www.meetup.com/Tacoma-JS/) meetup.
 
 --------
 
 ## Study Guide
 
-1) Sign up for [Cloud Nine](https://c9.io/). An online integrated development environment
+1) Sign up for:
+
+[![Cloud Nine](./assets/img/Cloud9_logo.jpg)](https://c9.io/)
+
+  - [Cloud Nine](https://c9.io/): an online integrated development environment.
+  - Welcome [youtube](https://www.youtube.com/watch?v=UX0mqLVlauk)
+  - IDE feature preview [youtube](https://www.youtube.com/watch?v=hqzOwM8aXdI)
+  - C9 Hello world introduction [vimeo](https://vimeo.com/16273901)
+  - Channel [youtube](https://www.youtube.com/channel/UC3z_ODXWUtR7KGxa4qz9hMw)
+  - FYI [Interview](https://www.youtube.com/watch?v=qhlfS2BU4fE)
 
 2) Then sign up for:
 
@@ -21,7 +31,7 @@
 
 ### - [Nodejs - Essential Training](https://www.lynda.com/Node-js-tutorials/Node-js-Essential-Training/417077-2.html) at Lynda
 
-### - NodeSchool workshoppers (self study problem sets):[ http://nodeschool.io/#workshoppers](http://nodeschool.io/#workshoppers)
+### - [Self study problem sets](http://nodeschool.io/#workshoppers): NodeSchool workshoppers
 
 ### - Beginining Node.js [book](http://www.apress.com/us/book/9781484201886) at Apress
 
@@ -32,11 +42,12 @@
 --------
 ## General Resources:
 
-### Node.js API documentation: [http://nodejs.org/api/](http://nodejs.org/api/)
+### - Node.js API documentation: [http://nodejs.org/api/](http://nodejs.org/api/)
 
-### Mozilla Developer Network: [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### - Node package manager: [npm](https://www.npmjs.org/)
 
-### npm: [https://www.npmjs.org/](https://www.npmjs.org/)
+### - Mozilla Developer Network: [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 ### Node.JS news
 * [Reddit](https://www.reddit.com/r/node/)
