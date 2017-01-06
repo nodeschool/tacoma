@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+ <html>
+   <head>
+     <title>My Markdown Reader</title>
+     <meta charset="UTF-8">
+     <!--For latest revision updates see https://developers.google.com/speed/libraries/  -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.2.3/showdown.min.js"></script>
+
+     <!--Read a markdown file and render it as HTML-->
+
+
+     <!-- Reference:
+         https://github.com/showdownjs/showdown
+         http://showdownjs.github.io/demo/
+     -->
+     <!-- Because of CORS browser limitations this page must be
+          served by a web server or local server.
+          If serving locally try this python one liner from the
+          command prompt in the directory being served:
+            $ cd /home/somedir
+            $ python -m SimpleHTTPServer
+
+          Then enter "http://localhost:8000/"
+                  or "http://127.0.0.1:8000/"
+                  in URL bar of browser
+
+     -->
+   </head>
+   <body>
+
+    <div id="markdownLocalFile"></div>
+    <hr>
+    <div id="markdownFromWeb"></div>
+     <script>
+        function convertMDtoHTML(markDownFilePath, id) {
+            //convert markdown to html and send to tag 'id'
+            // Requires jQuery and showdownjs to be loaded first
+            // Usage:
+            //     expects path to a markdown file
+            //     expects html id tag name of element
+            // local example path
+            //    markDownFilePath = "example_markdown.md";
+            // from the web
+            //    markDownFilePath =
+            //         "https://raw.githubusercontent.com/jstat/jstat/master/doc/md/core.md";
+            jQuery.get(markDownFilePath, function(markdown) {
+              // CORS rules mandate .md file be SERVED locally
+              // or remotely
+              var converter = new showdown.Converter();
+              var showHTML  = converter.makeHtml(markdown);
+              jQuery(id).html(showHTML);
+            });
+        }
+
+        //some example function calls
+        window.onload = convertMDtoHTML("README.md","#markdownLocalFile");
+/*
+        var pathy = "https://raw.githubusercontent.com/jstat/jstat/master/doc/md/core.md";
+        convertMDtoHTML(pathy,"#markdownFromWeb");
+*/
+     </script>
+   </body>
+</html>
