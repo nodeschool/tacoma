@@ -7,7 +7,7 @@
 
 --------
 
-## Study Guide [![Join the chat at https://gitter.im/Tacoma-JS/Tacoma-JS.github.io](https://badges.gitter.im/Tacoma-JS/Tacoma-JS.github.io.svg)](https://gitter.im/Tacoma-JS/Tacoma-JS.github.io)
+## Study Guide [![Join the chat at https://gitter.im/Tacoma-JS/nodeschool-tacoma](https://badges.gitter.im/Tacoma-JS/nodeschool-tacoma.svg)](https://gitter.im/Tacoma-JS/nodeschool-tacoma)
 
 1) Sign up for:
 
